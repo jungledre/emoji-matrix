@@ -1,0 +1,5 @@
+.grid {
+  cursor: grab;
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(26px, 1fr) );
+}
